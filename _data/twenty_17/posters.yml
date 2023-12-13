@@ -36,12 +36,32 @@
 - title: NERU
   name: Name-4
   subtitle: MALTA
-  img: neeru.jpg
-  thumbnail: neeru.jpg
+  img: nerum1.jpg
+  thumbnail: nerum1.jpg
   alt: Picture of TBD
   topic: Topic
   description:  MALTA
   link: https://tinyurl.com/NeruMT1
+
+- title: NERU
+  name: Name-4
+  subtitle: MALTA
+  img: nerum2.jpg
+  thumbnail: nerum2.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description:  MALTA
+  link: https://tinyurl.com/NeruMT1
+
+- title: NERU
+  name: Name-4
+  subtitle: MALTA
+  img: nerum3.jpg
+  thumbnail: nerum3.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description:  MALTA
+  link: https://tinyurl.com/NeruMT1  
 
 - title: FACE OF THE FACELESS
   name: Name-4
