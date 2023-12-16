@@ -4,9 +4,7 @@
 html {
     scroll-behavior: smooth;
   }
-.dropdown:hover .dropdown-menu {
-  display: block;
-}
+
 .dropdown .dropdown-menu{
     background-color: #00000096;
 }
