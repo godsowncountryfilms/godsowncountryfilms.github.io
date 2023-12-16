@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="row">
-            {% assign page_filter = page.title | upcase %}
+            {% assign page_filter = page.screen | upcase %}
             {% for post in site.data.twenty_17.posters %}
                 {% if post.subtitle contains page_filter %}
                 <div class="col-md-4 col-sm-6 speakers-item">
