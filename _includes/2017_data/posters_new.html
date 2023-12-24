@@ -11,7 +11,7 @@
             {% assign titles =  site.data.twenty_17.posters_new | map: 'title' | join: ','  | split: ',' | uniq %}    
             {% for title in titles %}
                 
-
+            <div class="col-md-4 col-sm-6 speakers-item">
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
               <!-- Wrapper for slides -->
               <div class="carousel-inner">
@@ -21,22 +21,24 @@
                               <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
                                 <img src="../css/2017_style/img/poster/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                               </a>
+                              <div class="carousel-caption">
+                                    {{post.location}}
+                              </div>
                         </div>
                         {% assign cls = "" %}
                         {% endfor %}
                       </div>
                       <!-- Controls -->
                       <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-                        <span class="glyphicon glyphicon-chevron-left"></span>
+                        <span class="glyphicon glyphicon-chevron-left"><</span>
                       </a>
                       <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-                        <span class="glyphicon glyphicon-chevron-right"></span>
+                        <span class="glyphicon glyphicon-chevron-right">></span>
                       </a>
                     </div>
                     <div class="speakers-caption">
                         <h4>{{ title }}</h4>
                         <br>
-                        
                     </div>
                 </div>
             {% endfor %}
