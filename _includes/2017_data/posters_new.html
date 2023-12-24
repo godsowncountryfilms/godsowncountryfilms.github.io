@@ -8,16 +8,18 @@
                 </div>
             </div>
             <div class="row">
-            {% for post in site.data.twenty_17.posters_new %}
+            {% assign titles =  site.data.twenty_17.posters_new | map: 'title' | join: ','  | split: ',' | uniq %}    
+            {% for title in titles %}
                 <div class="col-md-4 col-sm-6 speakers-item">
+                    {% for post in site.data.twenty_17.posters_new | where: 'title', title %}
                     <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
                         <img src="../css/2017_style/img/poster/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
+                    {% endfor %}
                     <div class="speakers-caption">
-                        <h4>{{ post.title }}</h4>
+                        <h4>{{ title }}</h4>
                         <br>
-                        <a href="{{post.link}}" class="btn btn-sm">Book Tickets - {{post.description}}</a>
-                        <p class="text-muted">{{ post.subtitle }}</p>
+                        
                     </div>
                 </div>
             {% endfor %}
