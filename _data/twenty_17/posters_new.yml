@@ -10,8 +10,6 @@
   topic: Topic
   description:  MALTA
   link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
-  location: MALTA
-  country: MALTA
 
   
 
@@ -24,8 +22,6 @@
   topic: Topic
   description:  ROME
   link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
-  location: ROME
-  country: ITALY
 
 
 
@@ -38,8 +34,6 @@
   topic: Topic
   description:  GENOVA
   link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
-  location: GENOVA
-  country: ITALY
 
 
 
@@ -52,8 +46,6 @@
   topic: Topic
   description:  TORINO
   link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
-  location: TORINO
-  country: ITALY
 
 
 
@@ -66,7 +58,5 @@
   topic: Topic
   description:  MILAN
   link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
-  location: MILAN
-  country: ITALY
 
   
