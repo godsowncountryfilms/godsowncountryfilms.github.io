@@ -39,6 +39,17 @@
                     <div class="speakers-caption">
                         <h4>{{ title }}</h4>
                         <br>
+                        <!-- Single button -->
+                        <div class="btn-group">
+                          <button type="button" class="btn btn-sm btn-default dropdown-toggle" data-toggle="dropdown">
+                            Book Tickets <span class="caret"></span>
+                          </button>
+                          <ul class="dropdown-menu" role="menu">
+                            {% for post in site.data.twenty_17.posters_new | where: 'title', title %}
+                            <li><a href="{{post.link}}">{{post.location}}</a></li>
+                            {% endfor %}
+                          </ul>
+                        </div>
                     </div>
                 </div>
             {% endfor %}
