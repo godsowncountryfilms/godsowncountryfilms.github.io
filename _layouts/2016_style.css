@@ -11,3 +11,9 @@ html {
 .speakers-item img{
     max-height:395px;
 }
+.glyphicon-chevron-left::before{
+    content: "\2190";
+}
+.glyphicon-chevron-right::before{
+    content: "\2192";
+}
