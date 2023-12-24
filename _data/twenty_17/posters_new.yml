@@ -10,77 +10,74 @@
   topic: Topic
   description:  MALTA
   link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
+  location: MALTA
+  country: MALTA
+
+
+
+  
+
+- title: NERU
+  name: Name-4
+  subtitle: ROME
+  img: nerum3.jpg
+  thumbnail: nerum3.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description:  ROME
+  link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
+  location: ROME
+  country: ITALY
+
+
+
+
+
+- title: NERU
+  name: Name-4
+  subtitle: GENOVA
+  img: nerum3.jpg
+  thumbnail: nerum3.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description:  GENOVA
+  link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
+  location: GENOVA
+  country: ITALY
+
+
+
+
+
+ - title: NERU
+  name: Name-4
+  subtitle: TORINO
+  img: nerum3.jpg
+  thumbnail: nerum3.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description:  TORINO
+  link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
   location: TORINO
   country: ITALY
 
-  
 
 
-  
+
+
 - title: NERU
   name: Name-4
-  subtitle: MALTA
+  subtitle: MILAN
   img: nerum3.jpg
   thumbnail: nerum3.jpg
   alt: Picture of TBD
   topic: Topic
-  description:  MALTA
+  description:  MILAN
   link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
-
-  
-
-
-  
-- title: NERU
-  name: Name-4
-  subtitle: MALTA
-  img: nerum3.jpg
-  thumbnail: nerum3.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description:  MALTA
-  link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
-
-  
+  location: MILAN
+  country: ITALY
 
 
-  
-- title: NERU
-  name: Name-4
-  subtitle: MALTA
-  img: nerum3.jpg
-  thumbnail: nerum3.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description:  MALTA
-  link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
 
-  
-
-
-  
-- title: NERU
-  name: Name-4
-  subtitle: MALTA
-  img: nerum3.jpg
-  thumbnail: nerum3.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description:  MALTA
-  link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
-
-  
-
-
-  
-- title: NERU
-  name: Name-4
-  subtitle: MALTA
-  img: nerum3.jpg
-  thumbnail: nerum3.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description:  MALTA
-  link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
 
   
