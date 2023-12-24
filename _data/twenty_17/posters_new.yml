@@ -13,6 +13,8 @@
   location: MALTA
   country: MALTA
 
+  
+
 - title: NERU
   name: Name-4
   subtitle: ROME
@@ -24,6 +26,8 @@
   link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
   location: ROME
   country: ITALY
+
+
 
 - title: NERU
   name: Name-4
@@ -37,6 +41,8 @@
   location: GENOVA
   country: ITALY
 
+
+
  - title: NERU
   name: Name-4
   subtitle: TORINO
@@ -48,6 +54,8 @@
   link: https://www.ticketly.eu/Event.aspx?eventId=36664&src=widget
   location: TORINO
   country: ITALY
+
+
 
 - title: NERU
   name: Name-4
