@@ -17,7 +17,7 @@ html {
 .glyphicon-chevron-right::before{
     content: "\2192";
 }
-.carousel-control.right{
+.carousel-control.right, .carousel-control.left{
     background:none;
 }
 #speakers .dropdown-menu > li > a:hover, #speakers .dropdown-menu > li > a:focus{
