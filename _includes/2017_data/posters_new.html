@@ -47,7 +47,6 @@
                           <ul class="dropdown-menu" role="menu">
                             {% for post in site.data.twenty_17.posters_new | where: 'title', title %}
                                     <li><a href="{{post.link}}">{{post.location}}</a></li>
-                                {% endif %}
                             {% endfor %}
                           </ul>
                         </div>
