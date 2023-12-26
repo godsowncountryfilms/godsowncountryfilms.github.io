@@ -46,8 +46,8 @@
                           </button>
                           <ul class="dropdown-menu" role="menu">
                             {% for post in site.data.twenty_17.posters_new | where: 'title', title %}
-                                    <li class="dropdown">
-                                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">{{post.location}}</a>
+                                    <li class="dropdown-submenu">
+                                        <a class="submenu" data-toggle="dropdown" href="#">{{post.location}} <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
                                             <li> <a class="dropdown-item" href="/genova"> GENOVA </a></li>
                                             <li> <a class="dropdown-item" href="/rome"> ROME </a></li>
