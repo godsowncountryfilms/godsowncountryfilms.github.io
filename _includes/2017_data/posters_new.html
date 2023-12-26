@@ -48,7 +48,7 @@
                               {% assign countries =  site.data.twenty_17.posters_new | where: 'title', title | map: 'country' | join: ','  | split: ',' | uniq %}    
                               {% for country in countries %}
                               <li>
-                                        <a class="dropdown-item" href="/{{country}}">{{country}} <span class="caret"></span></a>
+                                        <a class="dropdown-item" href="/{{country.country}}">{{country.country}} <span class="caret"></span></a>
                               </li>
                                <!--{% for post in site.data.twenty_17.posters_new | where: 'title', title %}
                                {% if country =  %}
