@@ -23,3 +23,12 @@ html {
 #speakers .dropdown-menu > li > a:hover, #speakers .dropdown-menu > li > a:focus{
     color: #000000;
 }
+.dropdown-submenu {
+        position: relative;
+    }
+
+    .dropdown-submenu .dropdown-menu {
+        top: 0;
+        left: 100%;
+        margin-top: -1px;
+    }
