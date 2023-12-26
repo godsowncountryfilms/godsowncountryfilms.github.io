@@ -46,7 +46,19 @@
                           </button>
                           <ul class="dropdown-menu" role="menu">
                             {% for post in site.data.twenty_17.posters_new | where: 'title', title %}
-                            <li><a href="{{post.link}}">{{post.location}}</a></li>
+                                {% if post.location == post.country %}
+                                    <li><a href="{{post.link}}">{{post.country}}</a></li>
+                                {% else %}
+                                    <li>
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" >{{post.country}}</a>
+                                        <ul class="dropdown-menu">
+                                        <li> <a class="dropdown-item" href="/genova"> GENOVA </a></li>
+                                        <li> <a class="dropdown-item" href="/rome"> ROME </a></li>
+                                        <li> <a class="dropdown-item" href="/torino"> TORINO </a></li>
+                                         <li> <a class="dropdown-item" href="/milan"> MILAN </a></li>
+                                         </ul>
+                                    </li>
+                                {% endif %}
                             {% endfor %}
                           </ul>
                         </div>
