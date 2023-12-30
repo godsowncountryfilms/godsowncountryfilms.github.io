@@ -20,7 +20,7 @@ html {
 .carousel-control.right, .carousel-control.left{
     background:none;
 }
-.caret-right::before{
+.caret-right{
         position: relative;
 }
 .caret-right::after{
