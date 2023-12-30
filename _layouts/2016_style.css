@@ -20,10 +20,10 @@ html {
 .carousel-control.right, .carousel-control.left{
     background:none;
 }
-.caret-right{
+.caret-right-link{
         position: relative;
 }
-.caret-right span::after{
+.caret-right::after{
         content: "";  
         position: absolute;
         right: 0px;
