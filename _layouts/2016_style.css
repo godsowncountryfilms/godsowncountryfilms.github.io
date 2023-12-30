@@ -20,6 +20,17 @@ html {
 .carousel-control.right, .carousel-control.left{
     background:none;
 }
+.caret-right::after{
+        content: "";
+        position: absolute;
+        right: 0px;
+        height: 0px;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        border: 6px solid transparent;
+        border-left-color: #7b8a8b;
+}
 #speakers .dropdown-menu > li > a:hover, #speakers .dropdown-menu > li > a:focus{
     color: #000000;
 }
