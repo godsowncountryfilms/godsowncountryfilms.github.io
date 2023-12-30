@@ -48,8 +48,8 @@
                               {% assign countries =  site.data.twenty_17.posters_new | where: 'title', title | map: 'country' | join: ','  | split: ',' | uniq %}    
                               {% for country in countries %}
                               <li>
-                                  {% assign loccount =  site.data.twenty_17.posters_new | where_exp: 'lcount', "lcount.title == title" and "lcount.country == country" %}
-                                      {% if loccount | size > 1 %}
+                                  {% assign locations =  site.data.twenty_17.posters_new | where_exp: 'lcount', "lcount.country" == country %}
+                                      {% if locations | size > 1 %}
                                         <a class="dropdown-item" href="/{{country | downcase}}">{{country}} <span class="caret"></span></a>
                                       {% else %}
                                         <a class="dropdown-item" href="/{{country | downcase}}">{{country}} </a>  
