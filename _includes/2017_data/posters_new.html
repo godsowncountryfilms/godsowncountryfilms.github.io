@@ -50,7 +50,7 @@
                               <li>
                                   <a class="dropdown-item" href="/{{country | downcase}}">{{country}} <span class="caret"></span></a>
                                   <ul class="dropdown-submenu dropdown-menu">
-                                    {% assign locations =  site.data.twenty_17.posters_new | where_exp: "locitem", "locitem.country = country" %}
+                                    {% assign locations =  site.data.twenty_17.posters_new | where_exp: "locitem", "locitem.country == country" %}
                                     {% for location in locations %}
                                     <li><a href="{{location.link}}" class="dropdown-item">{{location.location}}</a></li>   
                                     {% endfor %}
