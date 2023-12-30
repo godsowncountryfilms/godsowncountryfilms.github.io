@@ -52,7 +52,7 @@
                                   {% assign totloc = loccount | size %}
                                   {% assign locations =  site.data.twenty_17.posters_new | where_exp: "locitem", "locitem.country == country" and "locitem.title == title" %}
                                    {% if totloc > 1 %}
-                                  <a class="dropdown-item" href="/{{country | downcase}}" class="caret-right">{{country}} <span></span></a>
+                                  <a class="dropdown-item" href="/{{country | downcase}}" class="caret-right-link">{{country}} <span class="caret-right"></span></a>
                                   <ul class="dropdown-submenu dropdown-menu">
                                     {% for location in locations %}
                                     <li><a href="{{location.link}}" class="dropdown-item">{{location.location}}</a></li>   
