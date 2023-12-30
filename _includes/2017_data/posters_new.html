@@ -48,7 +48,7 @@
                               {% assign countries =  site.data.twenty_17.posters_new | where: 'title', title | map: 'country' | join: ','  | split: ',' | uniq %}    
                               {% for country in countries %}
                               <li>
-                                  <a class="dropdown-item" href="/{{country | downcase}}">{{country}} <span class="caret"></span></a>
+                                  <a class="dropdown-item" href="/{{country | downcase}}">{{country}} <span>>></span></a>
                                   <ul class="dropdown-submenu dropdown-menu">
                                     {% assign locations =  site.data.twenty_17.posters_new | where_exp: "locitem", "locitem.country == country" and "locitem.title == title" %}
                                     {% for location in locations %}
