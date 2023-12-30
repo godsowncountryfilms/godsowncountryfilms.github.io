@@ -23,7 +23,7 @@ html {
 .caret-right-link{
         position: relative;
 }
-.caret-right::after{
+.caret-right-link span::after{
         content: "";  
         position: absolute;
         right: 0px;
