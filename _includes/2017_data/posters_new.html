@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="row">
-            {% assign titles =  site.data.twenty_17.posters_new | map: 'title' | join: ','  | split: ',' | uniq %}    
+            {% assign titles =  site.data.twenty_17.posters | map: 'title' | join: ','  | split: ',' | uniq %}    
             {% for title in titles %}
                 
             <div class="col-md-4 col-sm-6 speakers-item">
@@ -16,7 +16,7 @@
               <!-- Wrapper for slides -->
               <div class="carousel-inner">
                       {% assign cls = "active" %}
-                       {% for post in site.data.twenty_17.posters_new | where: 'title', title %}
+                       {% for post in site.data.twenty_17.posters | where: 'title', title %}
                         <div class="item {{ cls }}">
                               <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
                                 <img src="../css/2017_style/img/poster/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
@@ -45,12 +45,12 @@
                             Book Tickets <span class="caret"></span>
                           </button>
                           <ul class="dropdown-menu" role="menu">
-                              {% assign countries =  site.data.twenty_17.posters_new | where: 'title', title | map: 'country' | join: ','  | split: ',' | uniq %}    
+                              {% assign countries =  site.data.twenty_17.posters | where: 'title', title | map: 'country' | join: ','  | split: ',' | uniq %}    
                               {% for country in countries %}
                               <li>
-                                  {% assign loccount =  site.data.twenty_17.posters_new | where_exp: "locitem", "locitem.country == country" and "locitem.title == title" | map: 'location' | join: ','  | split: ',' | uniq %}
+                                  {% assign loccount =  site.data.twenty_17.posters | where_exp: "locitem", "locitem.country == country" and "locitem.title == title" | map: 'location' | join: ','  | split: ',' | uniq %}
                                   {% assign totloc = loccount | size %}
-                                  {% assign locations =  site.data.twenty_17.posters_new | where_exp: "locitem", "locitem.country == country" and "locitem.title == title" %}
+                                  {% assign locations =  site.data.twenty_17.posters | where_exp: "locitem", "locitem.country == country" and "locitem.title == title" %}
                                    {% if totloc > 1 %}
                                   <a class="dropdown-item caret-right-link" href="/{{country | downcase}}">{{country}} <span></span></a>
                                   <ul class="dropdown-submenu dropdown-menu">
