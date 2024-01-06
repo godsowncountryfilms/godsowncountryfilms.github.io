@@ -9,6 +9,8 @@
   topic: Topic
   description:  REPUBBLICA (M) ROME 
   link: http://tinyurl.com/MVRome1
+  location: ROME
+  country: ITALY
 
 - title: MALAIKOTTE VALIBHAN
   name: Name-4
@@ -19,6 +21,8 @@
   topic: Topic
   description: GENOVA
   link: http://tinyurl.com/MVGenova
+  location: GENOVA
+  country: ITALY
 
 - title: MALAIKOTTE VALIBHAN
   name: Name-4
@@ -29,4 +33,6 @@
   topic: Topic
   description: MALTA
   link: https://www.ticketly.eu/m/mv-mt
+  location: MALTA
+  country: MALTA
   
