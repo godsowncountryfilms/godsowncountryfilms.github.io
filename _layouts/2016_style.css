@@ -51,3 +51,13 @@ left: auto;
 .dropdown-menu > li:hover > .dropdown-submenu {
 display: block;
 }
+@media(min-width:768px) {
+    .navbar-default-color {
+        padding: 10px 0;
+        background-color: #3cb371e5;
+        border-bottom: 1px solid #fff !important;
+    }
+    footer {
+        background-color: #3cb371e5;
+    }
+}
