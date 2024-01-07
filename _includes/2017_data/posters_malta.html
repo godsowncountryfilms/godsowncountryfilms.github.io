@@ -9,7 +9,9 @@
             </div>
             <div class="row">
             {% for post in site.data.twenty_17.posters %}
-                {% if post.subtitle contains "MALTA" %}
+                {% assign currlocation = post.location | upcase %}
+                {% assign currcontry = post.country | upcase %}
+                {% if currlocation == page_filter or currcontry == page_filter %}
                 <div class="col-md-4 col-sm-6 speakers-item">
                     <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
                         <img src="../css/2017_style/img/poster/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
