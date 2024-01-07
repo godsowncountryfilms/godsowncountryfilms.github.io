@@ -57,11 +57,14 @@ display: block;
         background-color: #3cb371e5;
         border-bottom: 1px solid #fff !important;
     }
-    .navbar-default .nav > li a:hover,
-    .navbar-default .nav > li a:focus {
+    .navbar-default .nav li a:hover,
+    .navbar-default .nav li a:focus {
         color: #1a242f;
     }
-
+    .navbar-default .nav li .dropdown-menu li a:hover,
+    .navbar-default .nav li .dropdown-menu li a:focus {
+        color: #3cb371;
+    }
     footer {
         background-color: #3cb371e5;
     }
