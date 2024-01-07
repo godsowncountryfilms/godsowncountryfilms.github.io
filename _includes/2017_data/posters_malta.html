@@ -8,6 +8,7 @@
                 </div>
             </div>
             <div class="row">
+            {% assign page_filter = page.screen | upcase %}
             {% for post in site.data.twenty_17.posters %}
                 {% assign currlocation = post.location | upcase %}
                 {% assign currcontry = post.country | upcase %}
