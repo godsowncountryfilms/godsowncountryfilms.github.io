@@ -1,5 +1,4 @@
 
-
 - title: AADUJEEVITHAM
   name: Name-4
   subtitle: ROME
@@ -11,6 +10,22 @@
   link: https://tinyurl.com/AadujeevithamIT1
   location: ROME
   country: ITALY
+
+
+- title: AADUJEEVITHAM
+  name: Name-4
+  subtitle: GENOVA
+  img: adug.jpg
+  thumbnail: adug.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: SPACE CINIMA 
+  link: https://tinyurl.com/GLGenova1
+  location: GENOVA
+  country: ITALY
+
+
+
 
 
 
