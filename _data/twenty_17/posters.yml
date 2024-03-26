@@ -11,6 +11,18 @@
   location: ROME
   country: ITALY
 
+- title: AADUJEEVITHAM
+  name: Name-4
+  subtitle: ROME 7/4/2024 SUNDAY
+  img: adspecialrm.jpg
+  thumbnail: adspecialrm.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: SPECIAL SHOW ROME
+  link: https://tinyurl.com/AadujeevithamIT1
+  location: ROME SUNDAY SHOW
+  country: ITALY  
+
 
 - title: AADUJEEVITHAM
   name: Name-4
@@ -24,7 +36,65 @@
   location: GENOVA
   country: ITALY
 
+- title: AADUJEEVITHAM
+  name: Name-4
+  subtitle: MILAN
+  img: admilan.jpg
+  thumbnail: admilan.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: OFFLINE TICKET AVAILABLE 
+  link: 
+  location: MILAN
+  country: ITALY  
 
+- title: AADUJEEVITHAM
+  name: Name-4
+  subtitle: NAPOLI
+  img: adnapoli.jpg
+  thumbnail: adnapoli.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: OFFLINE TICKET AVAILABLE
+  link: 
+  location: NAPOLI
+  country: ITALY  
+
+- title: AADUJEEVITHAM
+  name: Name-4
+  subtitle: NOCERA INFERIORE
+  img: adnocera.jpg
+  thumbnail: adnocera.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: OFFLINE TICKET AVAILABLE
+  link: 
+  location: NOCERA INFERIORE
+  country: ITALY  
+
+- title: AADUJEEVITHAM
+  name: Name-4
+  subtitle: TRIVISSO
+  img: adtrivisso.jpg
+  thumbnail: adtrivisso.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: OFFLINE BOOKING AVAILABLE
+  link: 
+  location: TRIVISSO
+  country: ITALY  
+
+- title: VARSHANGALKKU SESHAM
+  name: Name-4
+  subtitle: ROME
+  img: varshangalrm.jpg
+  thumbnail: varshangalrm.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: BOOKING START SOON
+  link: 
+  location: ROME
+  country: ITALY
 
 
 
