@@ -1,26 +1,15 @@
 
-- title: AADUJEEVITHAM
-  name: Name-4
-  subtitle: SOLD OUT
-  img: addrome1.jpg
-  thumbnail: addrome1.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: ANDROMEDA BATTISTINI
-  link:
-  location: ROME
-  country: ITALY
 
 - title: AADUJEEVITHAM
   name: Name-4
-  subtitle: ROME 7/4/2024 SUNDAY
+  subtitle: ROME SUNDAY 11.00am
   img: adspecialrm.jpg
   thumbnail: adspecialrm.jpg
   alt: Picture of TBD
   topic: Topic
-  description: SPECIAL SHOW ROME
-  link: https://tinyurl.com/AadujeevithamIT2
-  location: ROME SUNDAY SHOW
+  description: SHOW 2
+  link: https://tinyurl.com/AadujeevithamIT3
+  location: ROME SUNDAY 11.00am
   country: ITALY  
 
 
