@@ -25,17 +25,7 @@
   location: GENOVA
   country: ITALY
 
-- title: AADUJEEVITHAM
-  name: Name-4
-  subtitle: MILAN
-  img: admilan.jpg
-  thumbnail: admilan.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: OFFLINE TICKET AVAILABLE 
-  link: 
-  location: MILAN
-  country: ITALY  
+ 
 
 - title: AADUJEEVITHAM
   name: Name-4
@@ -49,29 +39,7 @@
   location: NAPOLI
   country: ITALY  
 
-- title: AADUJEEVITHAM
-  name: Name-4
-  subtitle: NOCERA INFERIORE
-  img: adnocera.jpg
-  thumbnail: adnocera.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: OFFLINE TICKET AVAILABLE
-  link: 
-  location: NOCERA INFERIORE
-  country: ITALY  
-
-- title: AADUJEEVITHAM
-  name: Name-4
-  subtitle: TRIVISSO
-  img: adtrivisso.jpg
-  thumbnail: adtrivisso.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: OFFLINE BOOKING AVAILABLE
-  link: 
-  location: TRIVISSO
-  country: ITALY  
+ 
 
 - title: VARSHANGALKKU SESHAM
   name: Name-4
@@ -80,8 +48,8 @@
   thumbnail: varshangalrm.jpg
   alt: Picture of TBD
   topic: Topic
-  description: BOOKING START SOON
-  link: 
+  description: ROME
+  link: https://tinyurl.com/VSRome1
   location: ROME
   country: ITALY
 
