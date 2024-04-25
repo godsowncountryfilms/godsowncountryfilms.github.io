@@ -4,8 +4,8 @@
 - title: AVESHAM
   name: Name-4
   subtitle: ROME
-  img: avesham.jpg
-  thumbnail: avesham.jpg
+  img: avesham1.jpg
+  thumbnail: avesham1.jpg
   alt: Picture of TBD
   topic: Topic
   description: ROME
@@ -14,6 +14,16 @@
   country: ITALY
 
 
-
+- title: MALAYALI FROM INDIA
+  name: Name-4
+  subtitle: ROME
+  img: malayali.jpg
+  thumbnail: malayali.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: ROME
+  link: https://tinyurl.com/MFIRome
+  location: ROME
+  country: ITALY
 
   
