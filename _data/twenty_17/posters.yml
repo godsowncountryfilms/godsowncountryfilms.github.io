@@ -1,14 +1,24 @@
-
+- title: RIFLE CLUB
+  name: Name-4
+  subtitle: MALTA
+  img: rifleclub.jpg
+  thumbnail: rifleclub.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: MALTA
+  link: https://tinyurl.com/RifleClubMT1
+  location: MALTA
+  country: MALTA
 
 - title: BARROZ
   name: Name-4
   subtitle: ROME
-  img: barroz.jpg
-  thumbnail: barroz.jpg
+  img: baroz2.jpg
+  thumbnail: baroz2.jpg
   alt: Picture of TBD
   topic: Topic
-  description: SUNDAY 3D SHOW 
-  link: 
+  description: SUNDAY  SHOW 
+  link: https://tinyurl.com/BarrozIT1
   location: rome
   country: ITALY
 
