@@ -10,29 +10,8 @@
   location: MALTA
   country: MALTA
 
-- title: BARROZ
-  name: Name-4
-  subtitle: ROME
-  img: baroz2.jpg
-  thumbnail: baroz2.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: SUNDAY  SHOW 
-  link: https://tinyurl.com/BarrozIT1
-  location: rome
-  country: ITALY
 
-- title: RHYTHM LIVE SHOW
-  name: Name-4
-  subtitle: ROME
-  img: dance.jpg
-  thumbnail: dance.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: ROME
-  link: https://tinyurl.com/RLS24
-  location: ROME
-  country: ITALY
+
 
 
 
