@@ -10,7 +10,17 @@
   location: ROME
   country: ITALY
 
-
+- title: RIFLE CLUB
+  name: Name-4
+  subtitle: MALTA
+  img: rifle2.jpg
+  thumbnail: rifle2.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: MALTA
+  link: https://tinyurl.com/RifleClubMT2
+  location: MALTA
+  country: MALTA  
 
 
 
