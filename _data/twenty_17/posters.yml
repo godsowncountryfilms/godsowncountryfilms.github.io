@@ -1,17 +1,3 @@
-- title: MARCO
-  name: Name-4
-  subtitle: ROME
-  img: marco.jpg
-  thumbnail: marco.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: BATTISTINI ROME
-  link: 
-  location: ROME
-  country: ITALY
-
-
-
 
 - title: BARROZ
   name: Name-4
@@ -24,6 +10,19 @@
   link: https://www.ticketly.eu/m/barroz-mt
   location: MALTA
   country: MALTA  
+
+- title: IDENTITY
+  name: Name-4
+  subtitle: MALTA
+  img: identity.jpg
+  thumbnail: identity.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: MALTA
+  link: https://tinyurl.com/IdentityMT1
+  location: MALTA
+  country: MALTA  
+
 
 
 
