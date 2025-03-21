@@ -17,6 +17,19 @@
 - title: EMPURAN
   name: Name-4
   subtitle: ROME
+  img: empuran5.jpg
+  thumbnail: empuran5.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: EVENING SHOW
+  link: https://www.ticketly.eu/Event.aspx?eventId=45258&src=widget 
+  location: ROME
+  country: ITALY   
+
+
+- title: EMPURAN
+  name: Name-4
+  subtitle: ROME
   img: empuran2.jpg
   thumbnail: empuran2.jpg
   alt: Picture of TBD
