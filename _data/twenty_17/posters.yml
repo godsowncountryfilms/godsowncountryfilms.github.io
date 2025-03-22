@@ -14,6 +14,7 @@
   country: ITALY 
 
 
+
 - title: EMPURAN
   name: Name-4
   subtitle: ROME
@@ -26,7 +27,19 @@
   location: ROME
   country: ITALY   
 
+- title: EMPURAN
+  name: Name-4
+  subtitle: ROME
+  img: empuran6.jpg
+  thumbnail: empuran6.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: SATURDAY 10.30 AM SHOW
+  link: https://www.ticketly.eu/Event.aspx?eventId=45243&src=widget
+  location: ROME
+  country: ITALY
 
+  
 - title: EMPURAN
   name: Name-4
   subtitle: ROME
