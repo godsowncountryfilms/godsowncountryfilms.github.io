@@ -15,17 +15,7 @@
 
 
 
-- title: EMPURAN
-  name: Name-4
-  subtitle: ROME
-  img: empuran5.jpg
-  thumbnail: empuran5.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: FRIDAY EVENING SHOW TERMINI
-  link: https://www.ticketly.eu/Event.aspx?eventId=45258&src=widget
-  location: ROME
-  country: ITALY   
+  
 
 - title: EMPURAN
   name: Name-4
@@ -55,14 +45,40 @@
 - title: EMPURAN
   name: Name-4
   subtitle: ROME
-  img: empuran4.jpg
-  thumbnail: empuran4.jpg
+  img: empuran9.jpg
+  thumbnail: empuran9.jpg
   alt: Picture of TBD
   topic: Topic
-  description: SUNDAY SHOW 10.50 AM
-  link: https://www.ticketly.eu/Event.aspx?eventId=45259&src=widget 
+  description: APRIL 6 SUNDAY SHOW
+  link: https://www.ticketly.eu/Event.aspx?eventId=45280&src=widget
   location: ROME
   country: ITALY 
+
+
+
+- title: EMPURAN
+  name: Name-4
+  subtitle: ROME
+  img: empuran7.jpg
+  thumbnail: empuran7.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: SOLD OUT
+  link: 
+  location: ROME
+  country: ITALY   
+
+- title: EMPURAN
+  name: Name-4
+  subtitle: ROME
+  img: empuran8.jpg
+  thumbnail: empuran8.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: SOLD OUT
+  link: 
+  location: ROME
+  country: ITALY   
 
 
 
