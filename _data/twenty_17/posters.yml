@@ -1,33 +1,4 @@
 
-
-
-  
-
-- title: EMPURAN
-  name: Name-4
-  subtitle: ROME
-  img: empuran6.jpg
-  thumbnail: empuran6.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: SATURDAY 10.30 AM SHOW
-  link: https://www.ticketly.eu/Event.aspx?eventId=45243&src=widget
-  location: ROME
-  country: ITALY
-
-  
-- title: EMPURAN
-  name: Name-4
-  subtitle: ROME
-  img: empuran2.jpg
-  thumbnail: empuran2.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: SUNDAY SHOW
-  link: https://www.ticketly.eu/Event.aspx?eventId=45244&src=widget 
-  location: ROME
-  country: ITALY 
-
 - title: EMPURAN
   name: Name-4
   subtitle: ROME
@@ -41,30 +12,20 @@
   country: ITALY 
 
 
-
-- title: EMPURAN
+- title: BAZOOKA
   name: Name-4
   subtitle: ROME
-  img: empuran7.jpg
-  thumbnail: empuran7.jpg
+  img: bazooka.jpg
+  thumbnail: bazooka.jpg
   alt: Picture of TBD
   topic: Topic
-  description: SOLD OUT
-  link: 
+  description: APRIL 13 SUNDAY SHOW
+  link: https://tinyurl.com/BazookaMT1
   location: ROME
-  country: ITALY   
+  country: ITALY 
 
-- title: EMPURAN
-  name: Name-4
-  subtitle: ROME
-  img: empuran8.jpg
-  thumbnail: empuran8.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: SOLD OUT
-  link: 
-  location: ROME
-  country: ITALY   
+
+
 
 
 
