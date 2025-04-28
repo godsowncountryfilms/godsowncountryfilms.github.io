@@ -1,10 +1,4 @@
 
-
-
-
- 
-
-
 - title: THUDARUM
   name: Name-4
   subtitle: ROME
@@ -16,6 +10,31 @@
   link: https://www.ticketly.eu/Event.aspx?eventId=45329&src=widget
   location: ROME
   country: ITALY   
+
+
+- title: GURU NANAK JAHAZ
+  name: Name-4
+  subtitle: MALTA
+  img: guru.jpg
+  thumbnail: guru.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: MALTA
+  link: https://tinyurl.com/GNJMT1
+  location: MALTA
+  country: MALTA   
+
+- title: RETRO
+  name: Name-4
+  subtitle: MALTA
+  img: retro.jpg
+  thumbnail: retro.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: MALTA
+  link: https://www.ticketly.eu/m/retro-mt
+  location: MALTA
+  country: MALTA   
 
 
 
