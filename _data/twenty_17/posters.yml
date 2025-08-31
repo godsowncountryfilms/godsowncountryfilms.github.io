@@ -1,61 +1,14 @@
-- title: ODUM KUTHIRA CHADUM KUTHIRA
-  name: Name-4
-  subtitle: MALTA
-  img: odum.jpg
-  thumbnail: odum.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: MALTA
-  link: https://tinyurl.com/OKCKMalta1
-  location: MALTA
-  country: MALTA   
+ 
 
 - title: HRIDAYAPOORVAM
   name: Name-4
   subtitle: MALTA
-  img: hrida1.jpg
-  thumbnail: hrida1.jpg
+  img: hrida5.jpg
+  thumbnail: hrida5.jpg
   alt: Picture of TBD
   topic: Topic
   description: MALTA
-  link: https://www.ticketly.eu/Event.aspx?eventId=46472&src=widget
-  location: MALTA
-  country: MALTA   
-
-
-- title: HRIDAYAPOORVAM
-  name: Name-4
-  subtitle: MALTA
-  img: hrida2.jpg
-  thumbnail: hrida2.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: MALTA
-  link: https://www.ticketly.eu/Event.aspx?eventId=46473&src=widget
-  location: MALTA
-  country: MALTA   
-
-- title: HRIDAYAPOORVAM
-  name: Name-4
-  subtitle: MALTA
-  img: hrida3.jpg
-  thumbnail: hrida3.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: MALTA
-  link: https://www.ticketly.eu/Event.aspx?eventId=46474&src=widget
-  location: MALTA
-  country: MALTA   
-
-- title: HRIDAYAPOORVAM
-  name: Name-4
-  subtitle: MALTA
-  img: hrida4.jpg
-  thumbnail: hrida4.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: MALTA
-  link: https://www.ticketly.eu/Event.aspx?eventId=46475&src=widget
+  link: https://www.ticketly.eu/Event.aspx?eventId=46485&src=widget
   location: MALTA
   country: MALTA   
 
