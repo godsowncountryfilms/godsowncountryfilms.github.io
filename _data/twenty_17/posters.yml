@@ -1,39 +1,17 @@
 - title: EKO
   name: Name-4
   subtitle: ITALY
-  img: ekor.jpeg
-  thumbnail: ekor.jpeg
+  img: jana.jpeg
+  thumbnail: jana.jpeg
   alt: Picture of TBD
   topic: Topic
   description: ROME
-  link: https://tinyurl.com/EKOIT1
+  link: https://www.ticketly.eu/m/jana-nayagan-it
   location: ROME
   country: ITALY  
 
 
-- title: EKO
-  name: Name-4
-  subtitle: ITALY
-  img: ekom.jpeg
-  thumbnail: ekom.jpeg
-  alt: Picture of TBD
-  topic: Topic
-  description: MILAN
-  link: https://tinyurl.com/EKOMilan1
-  location: MILAN
-  country: ITALY  
-
-- title: LIVE SHOW
-  name: Name-4
-  subtitle: ITALY
-  img: live.jpg
-  thumbnail: live.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: ROME
-  link: https://tinyurl.com/RythmIT25
-  location: ROME
-  country: ITALY  
+ 
 
 
 
