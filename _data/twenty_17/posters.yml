@@ -1,7 +1,4 @@
 
-
-
-
 - title: DRISHYAM 3
   name: Name-4
   subtitle: ITALY
@@ -16,8 +13,44 @@
 
 
 
+- title: DRISHYAM 3
+  name: Name-4
+  subtitle: ITALY
+  img: drisyam.jpeg
+  thumbnail: .jpeg
+  alt: Picture of TBD
+  topic: Topic
+  description: Booking start soon
+  link: 
+  location: MILAN
+  country: ITALY 
+
+  - title: DRISHYAM 3
+  name: Name-4
+  subtitle: ITALY
+  img: drisyamflorence.jpeg
+  thumbnail: drisyamflorence.jpeg
+  alt: Picture of TBD
+  topic: Topic
+  description: Booking start offline
+  link: 
+  location: Florence
+  country: ITALY 
 
 
+- title: DRISHYAM 3
+  name: Name-4
+  subtitle: ITALY
+  img: drisyamnoccera.jpeg
+  thumbnail: drisyamnoccera.jpeg
+  alt: Picture of TBD
+  topic: Topic
+  description: Booking start offline
+  link: 
+  location: NOCCERA
+  country: ITALY 
+
+  
 - title: JANANAYAKAN
   name: Name-4
   subtitle: ITALY
