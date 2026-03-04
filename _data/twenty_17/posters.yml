@@ -20,11 +20,24 @@
   thumbnail: drisyammilan1.jpg
   alt: Picture of TBD
   topic: Topic
-  description: Booking start soon
-  link: 
+  description: MILAN
+  link: https://www.ticketly.eu/m/d3-milan
   location: MILAN
   country: ITALY 
 
+
+- title: DRISHYAM 3
+  name: Name-4
+  subtitle: ITALY
+  img: drisyambr.jpg
+  thumbnail: drisyambr.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: Booking start soon
+  link: 
+  location: BARCELLONA
+  country: ITALY 
+  
 - title: DRISHYAM 3
   name: Name-4
   subtitle: ITALY
