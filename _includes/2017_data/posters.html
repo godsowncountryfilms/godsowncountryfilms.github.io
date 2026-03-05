@@ -11,7 +11,9 @@
             {% for post in site.data.twenty_17.posters %}
                 <div class="col-md-4 col-sm-6 speakers-item">
                     <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
-                        <img src="../css/2017_style/img/poster/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        <img src="../css/2017_style/img/poster/{{ post.thumbnail }}"
+                             class="img-responsive img-centered"
+                             alt="{{ post.title }} – Indian movie distributed in cinemas across Europe">
                     </a>
                     <div class="speakers-caption">
                         <h4>{{ post.title }}</h4>

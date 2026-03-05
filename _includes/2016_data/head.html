@@ -1,12 +1,37 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{% if page.layout == "2017_home" %}God's Own Country Films | Indian Movie Distribution in Europe{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ site.description }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta name="description" content="{% if page.layout == '2017_home' %}God's Own Country Films is Europe’s leading film distributor for Indian superhit movies. Book tickets for the latest Indian releases across major European cities.{% else %}{{ site.description }}{% endif %}">
+    <link rel="canonical" href="{% if page.layout == '2017_home' %}https://godsowncountryfilms.com/{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 
     {% seo %}
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{% if page.layout == '2017_home' %}https://godsowncountryfilms.com/{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+    <meta property="og:title" content="{% if page.layout == '2017_home' %}God's Own Country Films | Indian Movie Distribution in Europe{% else %}{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% endif %}">
+    <meta property="og:description" content="{% if page.layout == '2017_home' %}Europe’s leading film distributor for Indian superhit movies. Discover upcoming Indian movies and book tickets across Europe.{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:image" content="https://godsowncountryfilms.com/css/2017_style/img/logos/logo.png">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{% if page.layout == '2017_home' %}God's Own Country Films | Indian Movie Distribution in Europe{% else %}{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% endif %}">
+    <meta name="twitter:description" content="{% if page.layout == '2017_home' %}Europe’s leading film distributor for Indian superhit movies. Discover upcoming Indian movies and book tickets across Europe.{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:image" content="https://godsowncountryfilms.com/css/2017_style/img/logos/logo.png">
+
+    <!-- Organization Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "God's Own Country Films",
+      "url": "https://godsowncountryfilms.com/",
+      "logo": "https://godsowncountryfilms.com/css/2017_style/img/logos/logo.png",
+      "description": "Europe’s leading film distributor for Indian superhit movies, bringing Indian cinema to audiences across major European cities."
+    }
+    </script>
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link rel="stylesheet" href="{{ "../css/2016_style/style.css" | prepend: site.baseurl }}">
