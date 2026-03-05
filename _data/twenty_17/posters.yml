@@ -54,6 +54,19 @@
 - title: DRISHYAM 3
   name: Name-4
   subtitle: ITALY
+  img: drisyampagani.png
+  thumbnail: drisyampagani.png
+  alt: Picture of TBD
+  topic: Topic
+  description: Booking start offline
+  link: 
+  location: PAGANI
+  country: ITALY 
+
+
+- title: DRISHYAM 3
+  name: Name-4
+  subtitle: ITALY
   img: drisyamnoccera.png
   thumbnail: drisyamnoccera.png
   alt: Picture of TBD
