@@ -1,5 +1,5 @@
 nav {
-	background-color: #2f3036;
+	background-color: #020617;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -34,13 +34,13 @@ nav {
 		text-align: center;
 		line-height: 40px;
 		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-		color: #fff;
-		background: #00283c;
+		color: #e5f0ff;
+		background: #020617;
 		text-decoration: none;
 	}
 	/*Hover state for top level links*/
 	li:hover a {
-		background: gold;
+		background: #0b1120;
 	}
 	/*For website icon*/
 	li.hide a, li.hide:hover a {
@@ -49,15 +49,15 @@ nav {
 	}
 	/*Style for dropdown links*/
 	li:hover ul a {
-		background: #f3f3f3;
-		color: #00283c;
+		background: #020617;
+		color: #38bdf8;
 		height: 40px;
 		line-height: 40px;
 	}
 	/*Hover state for dropdown links*/
 	li:hover ul a:hover {
-		background: gold;
-		color: #fff;
+		background: #0b1120;
+		color: #e5f0ff;
 	}
 	/*Hide dropdown links until they are needed*/
 	li ul {
@@ -82,8 +82,8 @@ nav {
 	.show-menu {
 		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 		text-decoration: none;
-		color: #fff;
-		background: #00283c;
+		color: #e5f0ff;
+		background: #020617;
 		text-align: center;
 		padding: 10px 0;
 		display: none;

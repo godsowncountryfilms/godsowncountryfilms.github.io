@@ -6,7 +6,7 @@ html {
   }
 
 .dropdown .dropdown-menu{
-    background-color: #1a242f;
+    background-color: #0b1727;
 }
 .speakers-item img{
     max-height:395px;
@@ -54,18 +54,18 @@ display: block;
 @media(min-width:768px) {
     .navbar-default-color {
         padding: 10px 0;
-        background-color: #3cb371e5;
+        background-image: linear-gradient(135deg, #1d4ed8, #38bdf8);
         border-bottom: 1px solid #fff !important;
     }
     .navbar-default .nav li a:hover,
     .navbar-default .nav li a:focus {
-        color: #1a242f;
+        color: #e5f0ff;
     }
     .navbar-default .nav li .dropdown-menu li a:hover,
     .navbar-default .nav li .dropdown-menu li a:focus {
-        color: #3cb371;
+        color: #2563eb;
     }
     footer {
-        background-color: #3cb371e5;
+        background-image: linear-gradient(135deg, #1d4ed8, #38bdf8);
     }
 }
