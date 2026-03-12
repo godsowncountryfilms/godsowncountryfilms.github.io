@@ -28,11 +28,11 @@
 - title: DRISHYAM 3
   name: Name-4
   subtitle: ITALY
-  img: drisyamge.png
-  thumbnail: drisyamge.png
+  img: drisyamge.jpeg
+  thumbnail: drisyamge.jpeg
   alt: Picture of TBD
   topic: Topic
-  description: Booking start offline
+  description: GENOVA
   link: https://www.tickettailor.com/events/mayaevents/2108211?fbclid=PAZnRzaAQdRnRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAad1pIb0v-lbSu2923Okt9ArjQD1jDEcV_z7vyw0KqvrHdh6VJDtVWUbE3tD5g_aem_By1Q9y9rHN4cmj4b0hUPAg
   location: GENOVA
   country: ITALY 
@@ -41,14 +41,16 @@
 - title: DRISHYAM 3
   name: Name-4
   subtitle: ITALY
-  img: drisyambr.jpg
-  thumbnail: drisyambr.jpg
+  img: drisyamtre.jpeg
+  thumbnail: drisyamtre.jpeg
   alt: Picture of TBD
   topic: Topic
-  description: Booking start soon
+  description: Booking start offline
   link: 
-  location: BARCELLONA
+  location:TREVISO
   country: ITALY 
+
+
   
 - title: DRISHYAM 3
   name: Name-4
@@ -66,8 +68,8 @@
 - title: DRISHYAM 3
   name: Name-4
   subtitle: ITALY
-  img: drisyampagani.png
-  thumbnail: drisyampagani.png
+  img: drisyamnoccera1.jpeg
+  thumbnail: drisyamnoccera1.jpeg
   alt: Picture of TBD
   topic: Topic
   description: Booking start offline
@@ -75,7 +77,17 @@
   location: PAGANI
   country: ITALY 
 
-
+- title: DRISHYAM 3
+  name: Name-4
+  subtitle: ITALY
+  img: drisyambr.jpg
+  thumbnail: drisyambr.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: Booking start soon
+  link: 
+  location: BARCELLONA
+  country: ITALY 
 
   
 - title: JANANAYAKAN
