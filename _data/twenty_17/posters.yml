@@ -2,8 +2,8 @@
 - title: DRISHYAM 3
   name: Name-4
   subtitle: ITALY
-  img: drisyamr1.jpeg
-  thumbnail: drisyamr1.jpeg
+  img: drisyamr2.jpeg
+  thumbnail: drisyamr2.jpeg
   alt: Picture of TBD
   topic: Topic
   description: ROME
@@ -23,6 +23,18 @@
   description: MILAN
   link: https://www.ticketly.eu/m/d3-milan
   location: MILAN
+  country: ITALY 
+
+- title: DRISHYAM 3
+  name: Name-4
+  subtitle: ITALY
+  img: drisyamge.png
+  thumbnail: drisyamge.png
+  alt: Picture of TBD
+  topic: Topic
+  description: Booking start offline
+  link: https://www.tickettailor.com/events/mayaevents/2108211?fbclid=PAZnRzaAQdRnRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAad1pIb0v-lbSu2923Okt9ArjQD1jDEcV_z7vyw0KqvrHdh6VJDtVWUbE3tD5g_aem_By1Q9y9rHN4cmj4b0hUPAg
+  location: GENOVA
   country: ITALY 
 
 
