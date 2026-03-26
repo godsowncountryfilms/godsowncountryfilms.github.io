@@ -1,4 +1,19 @@
 
+
+- title: PALLICHATTAMBI
+  name: Name-4
+  subtitle: ITALY
+  img: pallir.jpeg
+  thumbnail: pallir.jpeg
+  alt: Picture of TBD
+  topic: Topic
+  description: ROME
+  link: https://tinyurl.com/PallichattambiRome1
+  location: ROME
+  country: ITALY 
+
+
+
 - title: DRISHYAM 3
   name: Name-4
   subtitle: ITALY
@@ -6,8 +21,8 @@
   thumbnail: drisyamr2.jpeg
   alt: Picture of TBD
   topic: Topic
-  description: ROME
-  link: https://www.ticketly.eu/m/d3-rome
+  description: ROME STAY TUNED
+  link: 
   location: ROME
   country: ITALY  
 
@@ -20,8 +35,8 @@
   thumbnail: drisyammilan1.jpg
   alt: Picture of TBD
   topic: Topic
-  description: MILAN
-  link: https://www.ticketly.eu/m/d3-milan
+  description: MILAN  STAY TUNED
+  link: 
   location: MILAN
   country: ITALY 
 
@@ -33,8 +48,8 @@
   thumbnail: drisyamge1.jpeg
   alt: Picture of TBD
   topic: Topic
-  description: GENOVA
-  link: http://tickettailor.com/events/mayaevents
+  description: GENOVA  STAY TUNED
+  link: 
   location: GENOVA
   country: ITALY 
 
@@ -46,7 +61,7 @@
   thumbnail: drisyamtre.jpeg
   alt: Picture of TBD
   topic: Topic
-  description: Booking start offline
+  description: Booking start soon
   link: 
   location: TREVISO
   country: ITALY 
@@ -60,7 +75,7 @@
   thumbnail: drisyamflorence.png
   alt: Picture of TBD
   topic: Topic
-  description: Booking start offline
+  description: Booking start soon
   link: 
   location: Florence
   country: ITALY 
@@ -73,7 +88,7 @@
   thumbnail: drisyamnoccera1.jpeg
   alt: Picture of TBD
   topic: Topic
-  description: Booking start offline
+  description: Booking start soon
   link: 
   location: PAGANI
   country: ITALY 
