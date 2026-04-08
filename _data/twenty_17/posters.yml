@@ -1,20 +1,27 @@
-
-
-
-
-  
-- title: JANANAYAKAN
+- title: PATRIOT
   name: Name-4
   subtitle: ITALY
-  img: jana1.jpeg
-  thumbnail: jana1.jpeg
+  img: patriotr.jpeg
+  thumbnail: patriotr.jpeg
   alt: Picture of TBD
   topic: Topic
-  description: UPCOMING MOVIE
-  link: 
+  description: Booking start soon
+  link: https://www.ticketly.eu/m/patriot-rome
   location: ROME
   country: ITALY  
 
+
+- title: PATRIOT
+  name: Name-4
+  subtitle: ITALY
+  img: patriotm.jpeg
+  thumbnail: patriotm.jpeg
+  alt: Picture of TBD
+  topic: Topic
+  description: Booking start soon
+  link: https://tinyurl.com/PatriotMilan1
+  location: MILAN
+  country: ITALY
 
  
 
