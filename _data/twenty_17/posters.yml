@@ -23,8 +23,17 @@
   location: MILAN
   country: ITALY
 
- 
-
+ - title: PATRIOT
+  name: Name-4
+  subtitle: MALTA
+  img: patriotmalta.jpeg
+  thumbnail: patriotmalta.jpeg
+  alt: Picture of TBD
+  topic: Topic
+  description: MALTA
+  link: https://www.ticketly.eu/m/patriot-mt
+  location: MALTA
+  country: MALTA
 
 
  
