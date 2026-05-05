@@ -1,27 +1,17 @@
-- title: PATRIOT
+- title: DRISHYAM 3
   name: Name-4
   subtitle: ITALY
-  img: patriotr.jpeg
-  thumbnail: patriotr.jpeg
+  img: drisyam3r.jpg
+  thumbnail: drisyam3r.jpg
   alt: Picture of TBD
   topic: Topic
   description: ROME
-  link: https://www.ticketly.eu/m/patriot-rome
+  link: https://www.ticketly.eu/m/d3-rome
   location: ROME
   country: ITALY  
 
 
-- title: PATRIOT
-  name: Name-4
-  subtitle: ITALY
-  img: patriotm.jpeg
-  thumbnail: patriotm.jpeg
-  alt: Picture of TBD
-  topic: Topic
-  description: MILAN
-  link: https://tinyurl.com/PatriotMilan1
-  location: MILAN
-  country: ITALY
+
 
 - title: PATRIOT
   name: Name-4
@@ -36,17 +26,7 @@
   country: MALTA
 
 
-- title: PATRIOT
-  name: Name-4
-  subtitle: MALTA
-  img: patriotgozo.jpg
-  thumbnail: patriotgozo.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: GOZO
-  link: https://tinyurl.com/PatriotGOZO
-  location: GOZO
-  country: MALTA
+
  
 
 
