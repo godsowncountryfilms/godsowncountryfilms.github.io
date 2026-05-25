@@ -1,8 +1,8 @@
 - title: DRISHYAM 3
   name: Name-4
   subtitle: ITALY
-  img: DRISHYAMR5.jpg
-  thumbnail: DRISHYAMR5.jpg
+  img: drm1.jpg
+  thumbnail: drm1.jpg
   alt: Picture of TBD
   topic: Topic
   description: ROME
@@ -23,17 +23,6 @@
   location: MILAN
   country: ITALY 
 
-- title: DRISHYAM 3
-  name: Name-4
-  subtitle: ITALY
-  img: dri.jpg
-  thumbnail: dri.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: MONTECATINI
-  link: https://tinyurl.com/Drishyam3IT5
-  location: MONTECATINI
-  country: ITALT
 
 
 
