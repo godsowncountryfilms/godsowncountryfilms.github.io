@@ -1,27 +1,16 @@
-- title: DRISHYAM 3
+- title: BALAN
   name: Name-4
   subtitle: ITALY
-  img: drm1.jpg
-  thumbnail: drm1.jpg
+  img: balan.jpg
+  thumbnail: balan.jpg
   alt: Picture of TBD
   topic: Topic
   description: ROME
-  link: https://www.ticketly.eu/m/d3-rome
+  link: https://tinyurl.com/BalanIT1
   location: ROME
   country: ITALY  
 
 
-- title: DRISHYAM 3
-  name: Name-4
-  subtitle: ITALY
-  img: drm.jpg
-  thumbnail: drm.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: MILAN
-  link: https://www.ticketly.eu/m/d3-milan
-  location: MILAN
-  country: ITALY 
 
 
 
