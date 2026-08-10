@@ -1,12 +1,24 @@
-- title: THUDAKKAM
+- title: DC TAMIL MOVIE
   name: Name-4
   subtitle: ITALY
-  img: thudakam.jpeg
-  thumbnail: thudakam.jpeg
+  img: DC.jpeg
+  thumbnail: DC.jpeg
   alt: Picture of TBD
   topic: Topic
   description: ROME
-  link: https://tinyurl.com/ThudakkamIT1
+  link: https://www.ticketly.eu/Event.aspx?eventId=50049
+  location: ROME
+  country: ITALY  
+
+- title: AMRUTAM GAMAYA
+  name: Name-4
+  subtitle: ITALY
+  img: Amrutam.jpeg
+  thumbnail: Amrutam.jpeg
+  alt: Picture of TBD
+  topic: Topic
+  description: ROME
+  link: https://www.ticketly.eu/Event.aspx?eventId=50043
   location: ROME
   country: ITALY  
 
