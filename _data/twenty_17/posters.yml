@@ -11,7 +11,7 @@
   country: ITALY  
 
 - title: AMRUTAM GAMAYA
-  name: Name-4
+  name: Name-4 
   subtitle: ITALY
   img: Amrutam.jpeg
   thumbnail: Amrutam.jpeg
@@ -22,7 +22,17 @@
   location: ROME
   country: ITALY  
 
-
+- title: KHALIFA
+  name: Name-4 
+  subtitle: MALTA
+  img: khalifa.jpeg
+  thumbnail: khalifa.jpeg
+  alt: Picture of TBD
+  topic: Topic
+  description: MALTA
+  link: https://www.ticketly.eu/m/khalifa-mt
+  location: MALTA
+  country: MALTA 
 
 
 
