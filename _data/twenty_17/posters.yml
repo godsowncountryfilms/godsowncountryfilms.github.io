@@ -1,38 +1,14 @@
 - title: BETHLEHEM KUDUMBA UNIT
   name: Name-4
   subtitle: ITALY
-  img: bku.jpeg
-  thumbnail: bku.jpeg
+  img: bkuu.jpeg
+  thumbnail: bkuu.jpeg
   alt: Picture of TBD
   topic: Topic
   description: ROME
   link: https://www.ticketly.eu/m/bku-it
   location: ROME
   country: ITALY  
-
-- title: TOXIC
-  name: Name-4
-  subtitle: ITALY
-  img: Toxi.jpeg
-  thumbnail: Toxi.jpeg
-  alt: Picture of TBD
-  topic: Topic
-  description: ROME
-  link: https://www.ticketly.eu/m/toxic-it
-  location: ROME
-  country: ITALY  
-
-- title: TOXIC
-  name: Name-4
-  subtitle: ITALY
-  img: Toxicmilan.jpeg
-  thumbnail: Toxicmilan.jpeg
-  alt: Picture of TBD
-  topic: Topic
-  description: MILAN
-  link: https://www.ticketly.eu/m/toxic-milan
-  location: MILAN
-  country: ITALY 
 
 - title: AMRUTAM GAMAYA
   name: Name-4
