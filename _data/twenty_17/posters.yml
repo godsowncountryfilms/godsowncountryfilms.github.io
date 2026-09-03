@@ -6,9 +6,21 @@
   alt: Picture of TBD
   topic: Topic
   description: ROME
-  link: https://www.ticketly.eu/m/bku-it
+  link: https://www.ticketly.eu/Event.aspx?eventId=50122&src=widget
   location: ROME
   country: ITALY  
+
+- title: BETHLEHEM KUDUMBA UNIT
+  name: Name-4
+  subtitle: ITALY
+  img: bku5.jpeg
+  thumbnail: bku5.jpeg
+  alt: Picture of TBD
+  topic: Topic
+  description: SOLD OUT
+  link:
+  location: ROME
+  country: ITALY 
 
 - title: AMRUTAM GAMAYA
   name: Name-4
