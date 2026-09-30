@@ -1,12 +1,24 @@
 - title: DHOOMAKETHU
   name: Name-4
   subtitle: MALTA
-  img: dhoomakethu.jpeg
-  thumbnail: dhoomakethu.jpeg
+  img: dhoomam.jpeg
+  thumbnail: dhoomam.jpeg
   alt: Picture of TBD
   topic: Topic
   description: MALTA
-  link: https://www.ticketly.eu/Event.aspx?eventId=50148&src=widget
+  link: https://www.embassycinemas.com/films/dhoomakethu/
+  location: MALTA
+  country: MALTA  
+
+- title: Pradham drishtya Kuttakkar
+  name: Name-4
+  subtitle: MALTA
+  img: pdk.jpeg
+  thumbnail: pdk.jpeg
+  alt: Picture of TBD
+  topic: Topic
+  description: MALTA
+  link: https://www.embassycinemas.com/films/pradhama-drishtya-kuttakkar/
   location: MALTA
   country: MALTA  
 
