@@ -10,6 +10,18 @@
   location: ROME
   country: ITALY
 
+- title: JAILER 2
+  name: Name-4
+  subtitle: ITALY
+  img: jailernapoli.jpeg
+  thumbnail: jailernapoli.jpeg
+  alt: Picture of TBD
+  topic: Topic
+  description: NAPOLI
+  link: https://tinyurl.com/j2-napoli
+  location: NAPOLI
+  country: ITALY
+
 - title: Pradham drishtya Kuttakkar
   name: Name-4
   subtitle: MALTA
