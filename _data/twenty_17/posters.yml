@@ -13,8 +13,8 @@
 - title: JAILER 2
   name: Name-4
   subtitle: ITALY
-  img: napoli.jpeg
-  thumbnail: napoli.jpeg
+  img: Jailernapoli2.jpg
+  thumbnail: Jailernapoli2.jpg
   alt: Picture of TBD
   topic: Topic
   description: NAPOLI
@@ -22,17 +22,7 @@
   location: NAPOLI
   country: ITALY
 
-- title: Pradham drishtya Kuttakkar
-  name: Name-4
-  subtitle: MALTA
-  img: pdk.jpeg
-  thumbnail: pdk.jpeg
-  alt: Picture of TBD
-  topic: Topic
-  description: MALTA
-  link: https://www.embassycinemas.com/films/pradhama-drishtya-kuttakkar/
-  location: MALTA
-  country: MALTA  
+
 
   
 
