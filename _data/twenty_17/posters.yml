@@ -1,38 +1,15 @@
 - title: JAILER 2
   name: Name-4
   subtitle: ITALY
-  img: jailerrome2.jpeg
-  thumbnail: jailerrome2.jpeg
-  alt: Picture of TBD
-  topic: Topic
-  description: ROME
-  link: https://www.ticketly.eu/m/jailer2-it
-  location: ROME
-  country: ITALY
-
-- title: JAILER 2
-  name: Name-4
-  subtitle: ITALY
-  img: jailermilan.jpeg
-  thumbnail: jailermilan.jpeg
+  img: jailermilan2.png
+  thumbnail: jailermilan2.png
   alt: Picture of TBD
   topic: Topic
   description: MILAN
-  link: https://www.ticketly.eu/m/j2-milan
+  link: https://www.ticketly.eu/Event.aspx?eventId=50204&src=widget
   location: MILAN
   country: ITALY
 
-- title: JAILER 2
-  name: Name-4
-  subtitle: ITALY
-  img: Jailernapoli2.jpg
-  thumbnail: Jailernapoli2.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: NAPOLI
-  link: https://tinyurl.com/j2-napoli
-  location: NAPOLI
-  country: ITALY
 
 
 
