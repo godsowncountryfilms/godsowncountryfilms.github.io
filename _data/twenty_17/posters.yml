@@ -10,6 +10,17 @@
   location: ROME
   country: ITALY
 
+- title: SCENE
+  name: Name-4
+  subtitle: ITALY
+  img: scenemilan.png
+  thumbnail: scenemilan.png
+  alt: Picture of TBD
+  topic: Topic
+  description: MILAN
+  link: https://www.ticketly.eu/Event.aspx?eventId=50236
+  location: MILAN
+  country: ITALY
 
 
 
